@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message display_value="Semaphore UI Authentication">a6a6abbd83781a100effcaffeeaad394</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2024-09-23 10:53:23</sys_created_on>
+        <sys_id>6fa62bf183381a100effcaffeeaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="Semaphore UI Integration" source="x_89245_semaphore">3ca01b3d83f41a100effcaffeeaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Semaphore UI Integration">3ca01b3d83f41a100effcaffeeaad312</sys_scope>
+        <sys_update_name>sys_rest_message_headers_6fa62bf183381a100effcaffeeaad3ee</sys_update_name>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2024-09-23 10:53:23</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>

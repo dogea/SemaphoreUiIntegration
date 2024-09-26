@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>template_id</name>
+        <rest_message_function display_value="GET Project Template">09c7908a83bc1a100effcaffeeaad3ad</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2024-09-23 14:18:10</sys_created_on>
+        <sys_id>99e794ca83bc1a100effcaffeeaad3ea</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>template_id</sys_name>
+        <sys_package display_value="Semaphore UI Integration" source="x_89245_semaphore">3ca01b3d83f41a100effcaffeeaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Semaphore UI Integration">3ca01b3d83f41a100effcaffeeaad312</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_99e794ca83bc1a100effcaffeeaad3ea</sys_update_name>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2024-09-23 14:52:21</sys_updated_on>
+        <type>string</type>
+        <value>1</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

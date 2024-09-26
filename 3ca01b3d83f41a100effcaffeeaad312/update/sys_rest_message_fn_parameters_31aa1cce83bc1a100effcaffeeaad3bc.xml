@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>uri</name>
+        <rest_message_function display_value="GET Project Task Output">719a98ce83bc1a100effcaffeeaad3ef</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2024-09-23 14:30:13</sys_created_on>
+        <sys_id>31aa1cce83bc1a100effcaffeeaad3bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uri</sys_name>
+        <sys_package display_value="Semaphore UI Integration" source="x_89245_semaphore">3ca01b3d83f41a100effcaffeeaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Semaphore UI Integration">3ca01b3d83f41a100effcaffeeaad312</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_31aa1cce83bc1a100effcaffeeaad3bc</sys_update_name>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2024-09-23 14:34:43</sys_updated_on>
+        <type>string</type>
+        <value>http://localhost:3000/api</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

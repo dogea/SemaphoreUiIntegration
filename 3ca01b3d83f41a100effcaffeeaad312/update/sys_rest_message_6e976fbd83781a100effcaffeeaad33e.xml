@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Projects API&#13;
+&#13;
+This REST Message contains the following HTTP Methods:&#13;
+- GET Project (Fetch project)&#13;
+- PUT Project (Update project)&#13;
+- DELETE Project (Delete project)&#13;
+- GET Backup Project (Backup a project)&#13;
+- GET Project Roles (Fetch permissions of the current user for project)&#13;
+- GET Project Events (Get Events related to this project)&#13;
+- GET Project Users (Get users linked to project)&#13;
+- POST Project User (Link user to project)&#13;
+- DELETE Project User (Removes user from project)&#13;
+- GET Project Integrations (get all integrations)&#13;
+- POST Project Integration (create a new integration)&#13;
+- PUT Project Integration (Update Integration)&#13;
+- DELETE Project Integration (Remove integration)&#13;
+- POST Project Integration Value (Add Integration Extracted Value)&#13;
+- POST Project Integration Matcher (Add Integration Matcher)&#13;
+- GET Prject Keys (Get access keys linked to project)&#13;
+- POST Project Key (Add access key)&#13;
+- PUT Project Key (Updates access key)&#13;
+- DELETE Project Key (Removes access key)&#13;
+- GET Project Repositories (Get repositories)&#13;
+- POST Project Repository (Add repository)&#13;
+- PUT Project Repository (Updates repository)&#13;
+- DELETE Project Repository (Removes repository)&#13;
+- GET Project Inventory (Get inventory)&#13;
+- POST Project Inventory (create inventory)&#13;
+- PUT Project Inventory (Updates inventory)&#13;
+- DELETE Project Inventory (Removes inventory)&#13;
+- GET Project Environment (Get environment)&#13;
+- POST Project Environment (Add environment)&#13;
+- PUT Project Environment (Update environment)&#13;
+- DELETE Project Environment (Removes environment)&#13;
+- GET Project Templates (Get templates)&#13;
+- POST Project Template (create template)&#13;
+- GET Project Template (Get template)&#13;
+- PUT Project Template (Updates template)&#13;
+- DELETE Project Template (Removes template)&#13;
+- GET Project Views (Get views)&#13;
+- POST Project View (create view)&#13;
+- GET Project View (Get view)&#13;
+- PUT Project View (Updates view)&#13;
+- DELETE Project View (Removes view)&#13;
+- GET Project Tasks (Get Tasks related to current project)&#13;
+- POST Project Task Start (Starts a job)&#13;
+- GET Project Last Tasks (Get last 200 Tasks related to current project)&#13;
+- POST Project Task Stop (Stop a job)&#13;
+- GET Project Task (Get a single task)&#13;
+- DELETE Project Task (Deletes task (including output))&#13;
+- GET Project Task Output (Get task output)</description>
+        <name>Semaphore UI Projects</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>{uri}</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2024-09-23 10:53:46</sys_created_on>
+        <sys_id>6e976fbd83781a100effcaffeeaad33e</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Semaphore UI Projects</sys_name>
+        <sys_package display_value="Semaphore UI Integration" source="x_89245_semaphore">3ca01b3d83f41a100effcaffeeaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Semaphore UI Integration">3ca01b3d83f41a100effcaffeeaad312</sys_scope>
+        <sys_update_name>sys_rest_message_6e976fbd83781a100effcaffeeaad33e</sys_update_name>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2024-09-23 14:32:18</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
