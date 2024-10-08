@@ -5,11 +5,13 @@
         <basic_auth_password/>
         <basic_auth_profile/>
         <basic_auth_user/>
-        <description>Everything related to a project&#13;
+        <description>Projects API&#13;
 &#13;
 This REST Message contains the following HTTP Methods:&#13;
-- TBD</description>
-        <name>Semaphore UI Project</name>
+- GET Projects (Get projects)&#13;
+- POST Projects (Create a new project)&#13;
+- POST Projects Restore (Restore Project)</description>
+        <name>Semaphore UI Projects</name>
         <oauth2_profile/>
         <protocol_name/>
         <rest_endpoint>${uri}</rest_endpoint>
@@ -17,14 +19,14 @@ This REST Message contains the following HTTP Methods:&#13;
         <sys_created_by>david.ogea</sys_created_by>
         <sys_created_on>2024-09-23 10:53:27</sys_created_on>
         <sys_id>d9b6ebbd83781a100effcaffeeaad3a2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Semaphore UI Project</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Semaphore UI Projects</sys_name>
         <sys_package display_value="Semaphore UI Integration" source="x_89245_semaphore">3ca01b3d83f41a100effcaffeeaad312</sys_package>
         <sys_policy/>
         <sys_scope display_value="Semaphore UI Integration">3ca01b3d83f41a100effcaffeeaad312</sys_scope>
         <sys_update_name>sys_rest_message_d9b6ebbd83781a100effcaffeeaad3a2</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-09-23 14:32:04</sys_updated_on>
+        <sys_updated_on>2024-10-08 08:42:17</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>
